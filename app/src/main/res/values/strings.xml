@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Google Sheet Demo</string>
+    <!-- UI -->
+    <string name="button">Send</string>
+    <string name="hint_value">Value</string>
+    <string name="hint_comment">Comment</string>
+    <!-- Toast message -->
+    <string name="no_network">There is no Internet connection</string>
+    <string name="check_google_service">This app requires Google Play Services. Please install
+        Google Play Services on your device and relaunch this app.</string>
+    <string name="success">%1$d cells updated</string>
+    <string name="error">Error occurred</string>
+    <string name="cancel">Request canceled</string>
+</resources>
