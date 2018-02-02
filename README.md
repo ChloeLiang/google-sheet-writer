@@ -1,7 +1,7 @@
 ## Introduction
 This is a simple Android demo of how to append data to a Google Sheet using Google Sheet API v4. It appends 4 columns of data into a [sample sheet](https://docs.google.com/spreadsheets/d/1-zJov4DesnHuGFwK7GkmqTqVVybldQ71PPz7_LUWmBg).
 
-![demo](https://gfycat.com/IllMildHagfish)
+<img src="screenshot.jpg" width="200"/>
 
 ## Prerequisites
 - Android Studio SDK 1.2 or later.
